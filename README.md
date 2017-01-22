@@ -1,2 +1,2 @@
 # myTestRepo
-This is a second test repo
+This is a second test repo for commit message
